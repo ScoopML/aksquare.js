@@ -1,4 +1,4 @@
-# aksquare.js # Copper ![test](https://forthebadge.com/images/badges/made-with-javascript.svg) ![test1](https://forthebadge.com/images/badges/built-with-love.svg) [![PyPI download day](https://img.shields.io/pypi/dd/ansicolortags.svg)](https://www.npmjs.com/package/aksquare.js)
+# aksquare.js ![test](https://forthebadge.com/images/badges/made-with-javascript.svg) ![test1](https://forthebadge.com/images/badges/built-with-love.svg) [![PyPI download day](https://img.shields.io/pypi/dd/ansicolortags.svg)](https://www.npmjs.com/package/aksquare.js)
 
 A deep learning library built using javascript to build and train machine learning models in the browsers.
 

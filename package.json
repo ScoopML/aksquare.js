@@ -1,0 +1,16 @@
+{
+  "name": "aksquare.js",
+  "version": "1.0.1",
+  "description": "\"Aksquare.js is JavaScript library for building and training deep learning models.\"",
+  "main": "./aksquare/aksquare.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+  },
+  "keywords": [
+    "deeplearning"
+  ],
+  "author": "Harish S.G",
+  "license": "ISC"
+}
